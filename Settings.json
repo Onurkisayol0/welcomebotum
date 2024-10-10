@@ -1,0 +1,10 @@
+{
+  "guild": "SUNUCU_İD",
+  "staff_role": "STAFF_ROLE_İD",
+  "state": "Scunzie harikasın 💛",
+  "local": true,
+  "file": "./cuma.mp3",
+  "youtube": "YOUTUBE_URL",
+  "tokens": ["BOT_TOKEN"],
+  "channels": ["GİRECEĞİ_KANAL_İD"]
+}
